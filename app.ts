@@ -3,4 +3,4 @@ circle(100, 100, 100);
 console.log("hello");
 fetchImage("dice/1.jpg")
 
-write("det här är ett test");
+write("något annat");
