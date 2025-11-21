@@ -4,4 +4,3 @@ console.log("hello");
 fetchImage("dice/1.jpg")
 
 write("något annat");
-write("det här är ett nytt test");
